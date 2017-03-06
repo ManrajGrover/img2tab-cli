@@ -1,6 +1,6 @@
 {
   "name": "img2tab-cli",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "CLI for converting images to HTML tables, for dynamic QR Codes, barcodes and more",
   "bin": {
     "img2tab": "cli.js"
