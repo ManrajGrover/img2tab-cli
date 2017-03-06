@@ -26,6 +26,7 @@
     "eslint-plugin-react": "^6.10.0"
   },
   "dependencies": {
+    "clipboardy": "^0.1.2",
     "img2tab": "0.0.4",
     "yargs": "^7.0.1"
   }
