@@ -27,6 +27,9 @@ Options:
   -h, --help       Show help                                           [boolean]
 ```
 
+## Related
+
+* [img2tab](https://github.com/ManrajGrover/img2tab) - API for this CLI
 
 ## License
 
