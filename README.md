@@ -1,5 +1,5 @@
 # img2tab-cli
-[![npm](https://img.shields.io/npm/v/img2tab-cli.svg?maxAge=2592000?style=flat-square)](https://www.npmjs.com/package/img2tab-cli) [![npm](https://img.shields.io/npm/dt/img2tab-cli.svg?maxAge=2592000?style=flat-square)](https://www.npmjs.com/package/img2tab-cli) ![awesome](https://img.shields.io/badge/awesome-yes-green.svg)
+[![Build Status](https://travis-ci.org/ManrajGrover/img2tab-cli.svg?branch=master)](https://travis-ci.org/ManrajGrover/img2tab-cli) [![npm](https://img.shields.io/npm/v/img2tab-cli.svg?maxAge=2592000?style=flat-square)](https://www.npmjs.com/package/img2tab-cli) [![npm](https://img.shields.io/npm/dt/img2tab-cli.svg?maxAge=2592000?style=flat-square)](https://www.npmjs.com/package/img2tab-cli) ![awesome](https://img.shields.io/badge/awesome-yes-green.svg)
 > CLI for converting images to html tables, for dynamic QR Codes, barcodes and more
 
 ## Install
